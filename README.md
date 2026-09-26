@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Nikiforos Kliafas | Portfolio
 
-## Getting Started
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 
-First, run the development server:
+[![Deployment Status](https://img.shields.io/github/deployments/NikKliaf/NikKliaf.github.io/production?style=flat-square&logo=vercel)](https://nikiforoskliafas.dev)
+[![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)](https://nikiforoskliafas.dev)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Welcome to the repository of my personal portfolio website. This project showcases my skills, projects, and journey as a developer. It is built with performance, accessibility, and clean code in mind.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Live website:** [nikiforoskliafas.dev](https://nikiforoskliafas.dev)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Live test demo:** [nikk-portfolio-eight.vercel.app](https://nikk-portfolio-eight.vercel.app)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Features
 
-To learn more about Next.js, take a look at the following resources:
+* **Serverless & Fast:** Hosted on Vercel's Edge Network.
+* **Internationalization (i18n):** Fully bilingual support for **English (EN)** and **Greek (EL)** using Next.js dynamic routing.
+* **Modern UI:** Responsive design that works on all devices.
+* **SEO Optimized:** Dynamic metadata and canonical tags for proper indexing.
+* **Type-Safe:** Built with TypeScript for robust code quality.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Tech Stack
 
-## Deploy on Vercel
+The website uses:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Category | Technology |
+| :--- | :--- |
+| **Framework** | [Next.js 15](https://nextjs.org/) (App Router) |
+| **Language** | [TypeScript](https://www.typescriptlang.org/) |
+| **Styling** | [Tailwind CSS](https://tailwindcss.com/) (or CSS Modules) |
+| **Deployment** | [Vercel](https://vercel.com) |

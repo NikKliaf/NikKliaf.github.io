@@ -13,8 +13,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export async function generateStaticParams() {
   return [
-    { locale: 'en' }, 
-    { locale: 'el' },
+    { locale: 'el' }, 
+    { locale: 'en' },
   ];
 }
 
